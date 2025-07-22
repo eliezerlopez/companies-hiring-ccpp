@@ -1,1 +1,11 @@
-# companies-hiring-cpp
+# Awesome list of companies using C/C++
+
+A colaborative curated list of companies that use [C/C++](https://cppreference.es) in their stack.
+Please, feel free to open a pull request to include (or fix) a company info, and keep the same formatting and alphabetical order.
+
+Formatting:
+```Company Name/website | Country where it's located | Remote/hybrid/onsite (where)```
+
+| Company | Location | Remote |
+| ------ | ------ | ------ |
+| [Capgemini](https://www.capgemini.com/careers/join-capgemini/job-search) | 🇪🇸 | onsite |
