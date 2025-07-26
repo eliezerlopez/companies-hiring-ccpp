@@ -4,8 +4,9 @@ A colaborative curated list of companies that use [C/C++](https://cppreference.e
 Please, feel free to open a pull request to include (or fix) a company info, and keep the same formatting and alphabetical order.
 
 Formatting:
-```Company Name/website | Country where it's located | Remote/hybrid/onsite (where)```
+```Company Name/website | Country where it's located | remote/hybrid/onsite (where)```
 
 | Company | Location | Remote |
 | ------ | ------ | ------ |
 | [Capgemini](https://www.capgemini.com/careers/join-capgemini/job-search) | 🇪🇸 | onsite |
+| [WATA Factory](https://wata.es/career) | 🇪🇸 | remote/hibrid/onsite |
