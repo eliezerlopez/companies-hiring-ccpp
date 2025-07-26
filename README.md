@@ -9,4 +9,6 @@ Formatting:
 | Company | Location | Remote |
 | ------ | ------ | ------ |
 | [Capgemini](https://www.capgemini.com/careers/join-capgemini/job-search) | 🇪🇸 | onsite |
+| [Enerclic](https://enerclic.es/trabaja-con-nosotros/) | 🇪🇸 | hibrid |
 | [WATA Factory](https://wata.es/career) | 🇪🇸 | remote/hibrid/onsite |
+| [Winterhalter](https://www.winterhalter.com/careers/) | 🇪🇸 | hibrid |
